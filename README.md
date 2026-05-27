@@ -1,3 +1,4 @@
+ HEAD
 # Async URL Status Checker
 
 Checks multiple URLs concurrently and reports status + response time.
@@ -8,5 +9,8 @@ Checks multiple URLs concurrently and reports status + response time.
 2. Clone repo
 3. Run:
 
-```bash
+bash
 uv sync
+
+# statuscheck
+ ec01556911aeb48ceb4b748b392e9515ea0bc78f
